@@ -11,5 +11,8 @@ Here is a brief outline of the process of the code:
 4. The 28x28 pixel image is then converted to a numpy array and passed into the model (neural net).
 5. The predicted value and the probability associated with the digit is sent by the bot as the prediction for the handwritten digit and the confidence score respectively.
 
+The following screenshots demonstrates the bot:
 
 ![alt text](https://github.com/ANDRYA005/Telegram_Digit_Recognition_Bot/blob/master/Screenshot_for_GitHub.PNG)
+
+![alt text](https://github.com/ANDRYA005/Telegram_Digit_Recognition_Bot/blob/master/Screenshot_for_GitHub(2).PNG)
