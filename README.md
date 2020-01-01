@@ -19,3 +19,7 @@ The following screenshots demonstrates the bot:
 
 
 As the model was trained on the MNIST dataset, where the images have completely blank backgrounds and the images are all uniformly formatted, when testing the model on my own handwritten digits, the model was mediocre. However, when the lighting in my images was improved and the thickness of the writing increased, I was able to get reasonably accurate results (as seen in the first screenshot).
+
+The **model** was created and trained in *Digit_Recognizer.py*.
+The **saved model** is *final_digit_model.h5*
+The **Telegram bot** and general functionality is in *final_digit_recognizer_bot.py*
