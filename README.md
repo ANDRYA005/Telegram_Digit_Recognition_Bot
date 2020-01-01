@@ -18,4 +18,4 @@ The following screenshots demonstrates the bot:
 ![alt text](https://github.com/ANDRYA005/Telegram_Digit_Recognition_Bot/blob/master/Screenshot_for_GitHub(2).PNG)
 
 
-As the model was trained on the MNIST dataset, where the images have completely blank backgrounds and the images are all uniformly formatted, when testing the model on my own handwritten digits, the model was very mediocre. However, when the lighting in my images was improved and the thickness of the writing increased, I was able to get reasonably accurate results (as seen in the first screenshot).
+As the model was trained on the MNIST dataset, where the images have completely blank backgrounds and the images are all uniformly formatted, when testing the model on my own handwritten digits, the model was mediocre. However, when the lighting in my images was improved and the thickness of the writing increased, I was able to get reasonably accurate results (as seen in the first screenshot).
